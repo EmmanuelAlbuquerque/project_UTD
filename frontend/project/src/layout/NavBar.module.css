@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+	display: flex;
+	justify-content: center;
+	background-color: #222;
+	padding: 1em;
+}
+.listas {
+	display: flex;
+	list-style: none;
+	align-items: center;
+}
+
+.item {
+	margin-right: 1em;
+}
+.item a {
+	color: #fff;
+	text-decoration: none;
+}
+.item a:hover {
+	color: aqua;
+}
+.img {
+	width: 100px;
+	margin-right: 2em;
+}

@@ -1,0 +1,28 @@
+.footer {
+	background-color: #222;
+	color: white;
+	padding: 2em;
+	text-align: center;
+}
+.social {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+}
+.social li {
+	margin: 0 1em;
+}
+.social li:hover {
+	color: aqua;
+}
+.social li svg {
+	font-size: 1.5rem;
+	cursor: pointer;
+}
+.feito {
+	margin-top: 2em;
+}
+.feito span {
+	font-weight: bold;
+	color: aqua;
+}

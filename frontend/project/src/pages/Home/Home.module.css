@@ -1,0 +1,21 @@
+.home {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-top: 2em;
+	font-weight: bold;
+}
+.home h1 {
+	font-size: 2.5rem;
+	margin-bottom: 0.5rem;
+}
+.home p {
+	margin: 1.5rem;
+	color: #7b7b7b;
+}
+.home img {
+	width: 250px;
+	margin: 2em 0;
+}
